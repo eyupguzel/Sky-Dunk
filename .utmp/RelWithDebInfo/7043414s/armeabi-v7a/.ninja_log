@@ -1,0 +1,23 @@
+# ninja log v5
+1	1228	7579073545916193	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d8aa420bd8919bb2
+49	211	7579073535741030	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	97aecffcd2b4c87d
+25	847	7579073542067635	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f2a84e88d28d2efe
+212	403	7579073537664649	C:/unityProjects/Slam Dunk/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/7043414s/obj/armeabi-v7a/libswappywrapper.so	9537aadc0d4b511c
+15	852	7579073542138132	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c997afac79a9d150
+31	957	7579073543210867	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b7b38db311ff9189
+6	857	7579073542228186	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	486850970aa9f822
+10	962	7579073543277194	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	133da56a877d8c62
+39	880	7579073542461192	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	208313d6417f1378
+19	1119	7579073544842668	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4302d14de95c6daf
+1229	1333	7579073547043130	C:/unityProjects/Slam Dunk/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/7043414s/obj/armeabi-v7a/libgame.so	839cd57038011ded
+116	631	7585845221550441	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	97aecffcd2b4c87d
+634	1423	7585845229208013	C:/unityProjects/Slam Dunk/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/7043414s/obj/armeabi-v7a/libswappywrapper.so	9537aadc0d4b511c
+18	3159	7585845246696862	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c997afac79a9d150
+73	3300	7585845247956877	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f2a84e88d28d2efe
+11	3379	7585845248970882	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	486850970aa9f822
+59	3586	7585845250573374	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	208313d6417f1378
+93	4153	7585845255165505	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b7b38db311ff9189
+28	4200	7585845256708124	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	133da56a877d8c62
+43	5049	7585845265215361	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4302d14de95c6daf
+4	5385	7585845268908618	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d8aa420bd8919bb2
+5388	5779	7585845272921365	C:/unityProjects/Slam Dunk/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/7043414s/obj/armeabi-v7a/libgame.so	839cd57038011ded
